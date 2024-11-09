@@ -1,0 +1,3 @@
+/home/liu/learn/CMake/demo/v3/build/CMakeFiles/app.dir
+/home/liu/learn/CMake/demo/v3/build/CMakeFiles/edit_cache.dir
+/home/liu/learn/CMake/demo/v3/build/CMakeFiles/rebuild_cache.dir

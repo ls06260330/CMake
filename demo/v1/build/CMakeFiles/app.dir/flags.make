@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/home/liu/learn/CMake/demo/v1/include
 
-CXX_FLAGS = 
+CXX_FLAGS = -std=gnu++11
 

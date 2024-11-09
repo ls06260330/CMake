@@ -1,0 +1,3 @@
+/home/liu/learn/CMake/demo/v2/build/CMakeFiles/calc.dir
+/home/liu/learn/CMake/demo/v2/build/CMakeFiles/edit_cache.dir
+/home/liu/learn/CMake/demo/v2/build/CMakeFiles/rebuild_cache.dir

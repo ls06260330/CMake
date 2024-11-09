@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/app.dir/main.cpp.o -o exe/app   -L/home/liu/learn/CMake/demo/v3/lib  -Wl,-rpath,/home/liu/learn/CMake/demo/v3/lib -lcalc 
